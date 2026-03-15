@@ -1,3 +1,15 @@
 server:
   port: 2333
   address: 0.0.0.0
+
+lavalink:
+  server:
+    password: "suasenha123"
+    sources:
+      youtube: true
+      soundcloud: true
+
+logging:
+  level:
+    root: INFO
+    lavalink: INFO
